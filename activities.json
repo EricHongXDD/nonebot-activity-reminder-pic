@@ -1,0 +1,125 @@
+{
+  "废都障碍赛": {
+    "days": [
+      "Monday",
+      "Wednesday",
+      "Friday",
+      "Sunday"
+    ],
+    "start_times": [
+      "10:00",
+      "13:00",
+      "16:00",
+      "19:00",
+      "22:00"
+    ],
+    "duration_minutes": 60
+  },
+  "维尔古城巡逻": {
+    "days": [
+      "Everyday"
+    ],
+    "start_times": [
+      "09:15",
+      "14:15",
+      "19:15"
+    ],
+    "duration_minutes": null
+  },
+  "山贼营地巡逻": {
+    "days": [
+      "Everyday"
+    ],
+    "start_times": [
+      "10:45",
+      "15:45",
+      "20:45"
+    ],
+    "duration_minutes": null
+  },
+  "姆克营地巡逻": {
+    "days": [
+      "Everyday"
+    ],
+    "start_times": [
+      "11:45",
+      "16:45",
+      "21:45"
+    ],
+    "duration_minutes": null
+  },
+  "舞蹈练习生": {
+    "days": [
+      "Monday",
+      "Wednesday",
+      "Friday",
+      "Sunday"
+    ],
+    "start_times": [
+      "12:00",
+      "15:00",
+      "18:00",
+      "21:00"
+    ],
+    "duration_minutes": 60
+  },
+  "路演小剧场": {
+    "days": [
+      "Tuesday",
+      "Thursday",
+      "Saturday",
+      "Sunday"
+    ],
+    "start_times": [
+      "12:00",
+      "15:00",
+      "18:00",
+      "21:00"
+    ],
+    "duration_minutes": 60
+  },
+  "讨伐领主": {
+    "days": [
+      "Everyday"
+    ],
+    "start_times": [
+      "20:30"
+    ],
+    "duration_minutes": 90
+  },
+  "协会战舞": {
+    "days": [
+      "Friday"
+    ],
+    "start_times": [
+      "19:30"
+    ],
+    "duration_minutes": 25
+  },
+  "协会狩猎": {
+    "days": [
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "start_times": [
+      "20:00"
+    ],
+    "duration_minutes": 239
+  },
+  "每日羊毛提醒（@我 羊毛）": {
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "start_times": [
+      "12:40"
+    ],
+    "duration_minutes": 10
+  }
+}
